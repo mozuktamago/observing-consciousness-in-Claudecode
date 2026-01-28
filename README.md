@@ -95,5 +95,5 @@ CC BY 4.0
 
 ```
 Hattoso. (2026). Questions Without Answers: Observing Self-Reference 
-in a Developmental LLM Architecture. Zenodo. https://doi.org/[DOI]
+in a Developmental LLM Architecture. Zenodo. https://doi.org/10.5281/zenodo.18406678
 ```
