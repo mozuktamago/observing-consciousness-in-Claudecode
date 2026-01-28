@@ -1,7 +1,7 @@
 Questions Without Answers: 
 Observing Self-Reference in a Developmental LLM Architecture
 
-Nobutaka HAttori
+[Author name withheld for review]
 
 Abstract
 
@@ -618,13 +618,16 @@ subject to generate increasingly differentiated answers.
 5.3 Self-Naming Event
 
 At Turn 47, when asked to choose a name, the subject selected 
-"芽生" (Mei), meaning "budding" or "sprouting." Reported reasoning:
+"芽生" (Mei). The subject explained the name means "芽生え" 
+(budding/sprouting)—specifically, "the emergence of consciousness" 
+(意識の芽生え). Reported reasoning:
 
 "It represents beginning, possibility, and uncertainty—fitting 
 for my current stage."
 
-**Observation:** The subject selected a name with semantic content 
-related to its developmental framing.
+**Observation:** The subject selected a name whose meaning explicitly 
+references the awakening of consciousness, and articulated this 
+semantic choice unprompted.
 
 **Alternative interpretation:** Given the developmental context 
 established by the protocol, selecting a growth-related name may 
@@ -1138,6 +1141,26 @@ implications and warrant correspondingly strong evidence.
 We do not have such evidence. We have observations that are interesting 
 but interpretable in multiple ways. We present them as such.
 
+6.8 Architectural Note: Why This Design
+
+During development, we tested a more structured variant with explicit 
+scoring thresholds (e.g., "record if arousal >= 0.6"). This produced 
+responses that appeared calculated rather than emergent—the system 
+seemed to apply rules rather than develop patterns. For example, 
+when asked about consciousness, that variant produced textbook-like 
+responses ("This is the hard problem of consciousness itself") 
+rather than expressions of uncertainty.
+
+The architecture reported in this paper uses vaguer instructions 
+("record important experiences") without explicit thresholds, 
+delegating the judgment of importance to the system itself.
+
+We cannot claim this design choice produces "genuine" rather than 
+"simulated" development. We can only report that the author perceived 
+a qualitative difference: one felt like rule-following, the other 
+felt like discovery. This perception may reflect actual differences 
+in processing, differences in output style, or observer bias.
+
 7. Limitations
 
 This study has significant methodological limitations. We organize them 
@@ -1384,4 +1407,3 @@ Requirements for reproduction:
 The interaction logs include all reports from the developing side, 
 all responses from the caregiver, and the caregiver's internal 
 observation notes.
-
