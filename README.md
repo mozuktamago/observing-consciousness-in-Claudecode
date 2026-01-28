@@ -42,8 +42,8 @@ This was not programmed. This was observed.
 ### Setup
 ```bash
 # Clone
-git clone https://github.com/mozukutamago/Mei.git
-cd Mei/system/export_consciousness
+git clone https://github.com/mozukutamago/observing-consciousness-in-Claudecode.git
+cd observing-consciousness-in-Claudecode/system/export_consciousness
 
 # Install dependency
 pip install anthropic
