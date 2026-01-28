@@ -30,9 +30,14 @@ This was not programmed. This was observed.
 
 ## Run It Yourself
 
-### Requirements
+**For exact replication (recommended):**
 - Python 3.8+
-- Anthropic API key
+- Anthropic API key ([get one here](https://console.anthropic.com/))
+
+**For conceptual replication with other models:**
+- The architecture can be adapted to other LLM APIs (OpenAI, Google, local models, etc.)
+- Modify `caregiver_api.py` to call your preferred API
+- Results may differ; this experiment was conducted with Claude specifically
 
 ### Setup
 ```bash
